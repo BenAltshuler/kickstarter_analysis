@@ -23,8 +23,10 @@ The biggest difficulty was in applying the countif logic to multiple cells. Ther
 ## Results
 
 The clearest trend based on launch date is that Summer is the hot time to crowdfund plays. Out of 1369 play fundraisers, 457 launched in May, June, and July. A lot of these summer campaigns are successful, with almost twice as many succeeding as failing. This trend falls off as the weather cools; of 75 December campaigns, 35 failed and 3 were canceled. May seems to be the best time to launch a campaign, statistically. 
+![Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png?raw=true "Outcomes Based on Launch Date")
 
-Looking at outcomes based on goals gets interesting. While our data is somewhat skewed towards smaller campaigns (186 projects sought less than 1000USD vs 16 wanting over 50,000), I feel comfortable claiming that there’s a negative correlation between goal and success. The most expensive campaigns seem generally the most likely to fail. This isn’t always true. All 4 campaigns in our set that sought between 30000 and 35000USD succeeded. Further research might reveal why these 4 succeeded with such lofty goals. ![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png?raw=true "Outcomes Based on Goals")
+Looking at outcomes based on goals gets interesting. While our data is somewhat skewed towards smaller campaigns (186 projects sought less than 1000USD vs 16 wanting over 50,000), I feel comfortable claiming that there’s a negative correlation between goal and success. The most expensive campaigns seem generally the most likely to fail. This isn’t always true. All 4 campaigns in our set that sought between 30000 and 35000USD succeeded. Further research might reveal why these 4 succeeded with such lofty goals. 
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png?raw=true "Outcomes Based on Goals")
 
 ## Limitations
 I think it might be helpful to know more about the backers than just how many each campaign had, surely kickstarter has a little more info on who’s using their site. Also, I think this kind of application has an element of creative marketing that is ignored here. This data set gives us no way to compare the actual Kickstarter pages’ CONTENT. We can see the blurb, but we all know a website is much more than the copy that comprises it. 
